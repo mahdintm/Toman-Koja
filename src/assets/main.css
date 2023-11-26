@@ -1,0 +1,7 @@
+*{
+    direction: rtl !important;
+}
+body{
+    background: url('./img/BG.svg');
+    background-size: cover;
+}
